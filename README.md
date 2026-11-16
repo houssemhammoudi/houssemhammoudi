@@ -27,14 +27,6 @@ $ cat ~/.motto
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-### 📊 Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=houssemhammoudi&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-</div>
-
 <div align="center">
 
 `while (alive) { learn(); automate(); repeat(); }`
